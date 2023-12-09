@@ -1,0 +1,6 @@
+flask
+yfinance
+requests
+flask-cors
+mysql-connector-python
+datetime
